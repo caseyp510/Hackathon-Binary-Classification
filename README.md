@@ -34,8 +34,9 @@ Our accuracy on the test data upon submission was : 96% for the test data
 
 ___
 
-Link to Python script used : (./python_codes/classification_framework.py)
+Link to Python script used : [Script](python_codes/classification_framework.py)
 
+---
 
-
+Link to Project Presentation : [Presentation](Hackthon%20Supervised%20binary%20classification%20project.pdf)
 
