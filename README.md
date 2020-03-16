@@ -34,7 +34,7 @@ Our accuracy on the test data upon submission was : 96% for the test data
 
 ___
 
-Link to Python script used : [Script](python_codes/classification_framework.py)
+Link to Python script used : [Script](src/classification_framework.py)
 
 ---
 
